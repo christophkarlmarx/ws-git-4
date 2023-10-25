@@ -3,5 +3,8 @@
     public class ApiConfiguration
     {
         //test
+        public ApiConfiguration(){
+            Console.WriteLine("Hallo Welt");
+        }
     }
 }
