@@ -6,6 +6,7 @@
         public ApiConfiguration(){
             Console.WriteLine("Hallo Welt");
             Console.WriteLine("123");
+            Console.WriteLine("jetzt aber...");
         }
     }
 }
