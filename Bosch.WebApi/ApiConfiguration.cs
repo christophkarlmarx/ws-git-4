@@ -12,6 +12,7 @@
 
         public void SayHello(){
             Console.WriteLine("Auch von mir hallo!");
+            Console.WriteLine("Hallo");
         }
     }
 }
