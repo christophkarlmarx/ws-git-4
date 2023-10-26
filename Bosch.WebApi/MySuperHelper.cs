@@ -3,5 +3,10 @@
   public class MySuperHelper
   {
     public int ID { get; set; }
+
+    public MySuperHelper()
+    {
+      
+    }
   }
 }
