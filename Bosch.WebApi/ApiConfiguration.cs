@@ -8,6 +8,7 @@
             Console.WriteLine("123");
             Console.WriteLine("jetzt aber...");
             Console.WriteLine("Test 450");
+            Console.WriteLine("Test Patrick");
         }
 
         public void SayHello(){
