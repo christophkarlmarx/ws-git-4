@@ -9,7 +9,7 @@
             Console.WriteLine("jetzt aber...");
             Console.WriteLine("Test 450");
             Console.WriteLine("Test Patrick");
-            Console.WriteLine("change by cmx 1");
+            
         }
 
         public void SayHello(){
