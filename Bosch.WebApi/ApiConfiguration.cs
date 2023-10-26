@@ -7,6 +7,7 @@
             Console.WriteLine("Hallo Welt");
             Console.WriteLine("123");
             Console.WriteLine("jetzt aber...");
+            Console.WriteLine("my first commit...");
         }
 
         public void SayHello(){
