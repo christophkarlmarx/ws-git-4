@@ -20,6 +20,6 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.MapControllers();
+app.MapControllers(); Hier mach ich was kaputt
 
 app.Run();
